@@ -1,1 +1,1 @@
-Collection of Versions of Dexed Yamaha DX7/OPL Emulator and Programmer.
+Collection of Versions of Dexed Yamaha DX7/OPL Emulator and Programmer/CardReader/Writer.
